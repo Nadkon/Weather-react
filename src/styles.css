@@ -120,3 +120,11 @@ a {
   line-height: 18px;
   margin-top: 40px;
 }
+
+.footer {
+  margin-left: 20px;
+  font-size: 10px;
+}
+.footer a{
+  cursor: pointer;
+}
