@@ -8,7 +8,7 @@ export default function App() {
     <div className="App">
       <div className="weather">
         <Form />
-        <Weather />
+        <Weather defaultCity = 'Kyiv'/>
         <Forecast />
       </div>
     </div>
